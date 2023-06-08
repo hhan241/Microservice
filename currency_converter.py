@@ -1,6 +1,3 @@
-# Course: CS361 - Software Engineering 1
-# Student Name: Hongliu Han
-# Assignment: Microservice
 # Description: This service converts two currencies. It takes an text
 #              file named input.txt as input. In input.txt file, users enter
 #              the original currency, target currency and amount to convert,
